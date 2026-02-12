@@ -1,0 +1,20 @@
+TEAM MEMBER IMAGES SETUP
+========================
+
+Current Images:
+✓ member1.jpg - Ahmed Al-Rashid (CEO)
+✓ member2.jpg - Sarah Hassan (Chief Engineer)
+
+Missing Images (Using online placeholders):
+- member3.jpg - Mohammed Ali (Project Manager)
+- member4.jpg - Fatima Abdullah (Design Director)
+- member5.jpg - Khalid Ibrahim (Safety Manager)
+- member6.jpg - Layla Mohamed (Quality Control Lead)
+
+To Add Your Own Images:
+1. Add images named member3.jpg, member4.jpg, member5.jpg, member6.jpg to this folder
+2. Recommended size: 600x800px (portrait)
+3. Format: JPG or PNG
+4. Maximum file size: 500KB each
+
+The website will automatically use your images when you add them!

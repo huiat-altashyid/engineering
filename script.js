@@ -204,7 +204,7 @@ const EngineeringApp = {
 
         // Observe elements
         const animateElements = document.querySelectorAll(
-            '.service-card, .project-card, .feature, .stat, .about-image, .contact-item'
+            '.service-card, .project-card, .feature, .stat, .about-image, .contact-item, .team-member'
         );
 
         animateElements.forEach(el => observer.observe(el));
